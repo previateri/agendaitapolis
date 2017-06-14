@@ -19,8 +19,7 @@
 	
 	//CONECTA AO BANCO DE DADOS
 	function conectaBanco(){
-		mysql_connect('localhost','u725950134_agnit','45d-e6e6-t1t0') or die("Falha ao se conectar ao banco. Verifique se os dados de conexão estão corretos.");
-		mysql_select_db('u725950134_agnit');
+		
 	}
 	
 	//DESCONECTA DO BANCO DE DADOS

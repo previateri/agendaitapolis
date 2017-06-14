@@ -20,7 +20,7 @@ $assunto = 'Pedido de Inclusão na Agenda ';
 $mensagem = $mensagemEmail;
 $seu_email = 'contato@agendaitapolis.com.br';
 $seu_nome = 'Agenda Itápolis - Pedido';
-$sua_senha = '45d-e6e6';
+$sua_senha = 'SENHA_EMAIL';
  
 /* Se for do Gmail o servidor é: smtp.gmail.com */
 $host_do_email = 'mx1.hostinger.com.br';
