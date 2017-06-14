@@ -1,0 +1,17 @@
+CACHE MANIFEST
+#Versao_Mobile: 1.15.6.10_3 - Agenda Itapolis
+CACHE:
+offline.html
+css/offline.css
+script/offline.js
+script/funcoes.js
+script/home.js
+img/icon-nowifi.png
+img/icon-girar.png
+http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css
+http://code.jquery.com/jquery-2.1.1.min.js
+http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js
+http://code.jquery.com/mobile/1.4.5/images/ajax-loader.gif
+
+FALLBACK:
+agenda.php /offline.html

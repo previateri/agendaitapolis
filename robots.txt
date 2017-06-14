@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: agenda.php
+Disallow: mapa.php
+Disallow: /script
+Disallow: /php
+Disallow: /m
+Disallow: /img
+Disallow: /css
+Disallow: /testes
+Disallow: offline.html

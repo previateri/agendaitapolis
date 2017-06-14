@@ -1,0 +1,10 @@
+<Files ~ "^\.(htaccess|htpasswd)$">
+deny from all
+AddType text/cache-manifest .text
+</Files>
+Options -Indexes
+ErrorDocument 403 /403_error.html
+ErrorDocument 404 /404_error.html
+RewriteEngine on
+DirectoryIndex index.php       
+order deny,allow
